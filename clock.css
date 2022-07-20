@@ -1,0 +1,17 @@
+.Clock-body{
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+    font-size: 150px;
+    background-color: aliceblue;
+    color: black;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+    
+}
+img{
+ width: 30px;
+ height: 40px;   
+}
